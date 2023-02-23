@@ -123,7 +123,7 @@ function createEngineer() {
       },
       {
         type: 'input',
-        name: 'internSchool',
+        name: 'engineerGithub',
         message: "What is the engineer's github?",
 
       },
