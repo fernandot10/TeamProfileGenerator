@@ -9,7 +9,7 @@ const teamArray = [];
 
 
 function createManager() {
-  console.log('Build your team below ⬇️');
+  console.log('Build your team Manager below ⬇️');
   inquirer
     .prompt([
       {
@@ -55,7 +55,7 @@ function createManager() {
 
 
 function createIntern() {
-  console.log('Build your team below ⬇️');
+  console.log('Build your team intern below ⬇️');
   inquirer
     .prompt([
       {
@@ -100,7 +100,7 @@ function createIntern() {
 
 
 function createEngineer() {
-  console.log('Build your team below ⬇️');
+  console.log('Build your team engineer below ⬇️');
   inquirer
     .prompt([
       {
